@@ -1,4 +1,4 @@
-#Welcome #to #the #Obsidian #Tears #Project
+Welcome to the Obsidian Tears Project
 
 ![Alt text](<Obsidian Tears cover art.png>)
 
