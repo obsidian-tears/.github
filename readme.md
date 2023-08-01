@@ -1,5 +1,6 @@
-Welcome to the Obsidian Tears Project
-f![Alt text](<Obsidian Tears cover art.png>)
+#Welcome #to #the #Obsidian #Tears #Project
+
+![Alt text](<Obsidian Tears cover art.png>)
 
 Our Mission is to create a great game that entertains, uplifts, and shares our loves or the 2D classic genre that reminds us of our childhood and the good times! We hope you will find it does the same for you as it has for us.
 
@@ -14,4 +15,7 @@ We are grateful to Dfinity for helping us on our journey through their grant pro
 We are happy to offer our codebase as an open source project. We hope to include the community increasingly, over time. We have exciting things in the works.
 
 Each of our repositories offers a more techincal overview of how to utilize the repository and code base we have built. 
+
+Website: https://obsidiantears.xyz/
+Twitter: https://twitter.com/obsidian__tears
 
